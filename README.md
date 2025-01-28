@@ -13,8 +13,9 @@
 - 🔍 Data Preprocessing
 - 📈 Model Optimization
 - Stack & Programming languages:
-- 📱 Dart
+- 📱 Dart (offensive)
 - 🦣 PHP (8.2+)
+- 🦀 Rust (basic)
 - 🐍 Python (3.9+)
 - 📬 Contact:
 - Email: qwaaantex@gmail.com
