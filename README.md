@@ -1,19 +1,23 @@
 ## Hi Everyone 👋
 - 🔧 Technologies & Skills
-- Mobile Development (Flutter)
+- Mobile Development (Flutter/Dart):
 - 📱 Cross-platform mobile app development
 - 🎨 UI/UX Design with Flutter
 - 🔌 State Management
 - 🌐 REST API Integration
 - 🧪 Unit and Widget Testing
-- AI & Machine Learning (Python, TensorFlow)
+- AI & Machine Learning (Python, TensorFlow):
 - 🤖 Deep Learning
 - 📊 Machine Learning Models
 - 🧠 Neural Network Architecture
 - 🔍 Data Preprocessing
 - 📈 Model Optimization
-- 📬 Contact
+- Stack & Programming languages:
+- 📱 Dart
+- 🦣 PHP (8.2+)
+- 🐍 Python (3.9+)
+- 📬 Contact:
 - Email: qwaaantex@gmail.com
 - LinkedIn: Soon..
-- Telegram: @qwaaantex
-- Vk: @qwaaantex
+- Telegram: https://t.me/qwaaantex
+- Vk: https://vk.com/qwaaantex
