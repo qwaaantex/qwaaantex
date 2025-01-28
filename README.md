@@ -1,16 +1,19 @@
 ## Hi there 👋
-
-<!--
-**qwaaantex/qwaaantex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Skills
+Mobile Development (Flutter)
+📱 Cross-platform mobile app development
+🎨 UI/UX Design with Flutter
+🔌 State Management
+🌐 REST API Integration
+🧪 Unit and Widget Testing
+AI & Machine Learning (Python, TensorFlow)
+🤖 Deep Learning
+📊 Machine Learning Models
+🧠 Neural Network Architecture
+🔍 Data Preprocessing
+📈 Model Optimization
+📬 Contact
+Email: qwaaantex@gmail.com
+LinkedIn: Soon..
+Telegram: @qwaaantex
+Vk: @qwaaantex
