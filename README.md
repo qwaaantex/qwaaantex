@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔧 Technologies & Skills\n
-Mobile Development (Flutter)
+- 🔧 Technologies & Skills
+- Mobile Development (Flutter)
 📱 Cross-platform mobile app development
 🎨 UI/UX Design with Flutter
 🔌 State Management
