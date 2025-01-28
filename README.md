@@ -1,13 +1,13 @@
 ## Hi Guys!👋
 - 🔧 Technologies & Skills
-- Mobile Development (Flutter/Dart)
+- Mobile Development (Flutter/Dart):
 - 📱 Cross-platform mobile app development
 - 🎨 Responsive and adaptive UI/UX design
 - 🔌 Advanced state management (Provider, Riverpod, BLoC)
 - 🌐 RESTful and GraphQL API integration
 - 🧪 Comprehensive unit, widget, and integration testing
 - 🔒 Security and performance optimization
-- AI & Machine Learning (Python, TensorFlow)
+- AI & Machine Learning (Python, TensorFlow):
 - 🤖 Deep learning and neural network development
 - 📊 Advanced machine learning model architectures
 - 🧠 Custom neural network design
