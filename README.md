@@ -1,22 +1,34 @@
-## Hi Everyone 👋
+## Hi Guys!👋
 - 🔧 Technologies & Skills
-- Mobile Development (Flutter/Dart):
+- Mobile Development (Flutter/Dart)
 - 📱 Cross-platform mobile app development
-- 🎨 UI/UX Design with Flutter
-- 🔌 State Management
-- 🌐 REST API Integration
-- 🧪 Unit and Widget Testing
-- AI & Machine Learning (Python, TensorFlow):
-- 🤖 Deep Learning
-- 📊 Machine Learning Models
-- 🧠 Neural Network Architecture
-- 🔍 Data Preprocessing
-- 📈 Model Optimization
-- Stack & Programming languages:
-- 📱 Dart (offensive)
-- 🦣 PHP (8.2+)
-- 🦀 Rust (basic)
-- 🐍 Python (3.9+)
+- 🎨 Responsive and adaptive UI/UX design
+- 🔌 Advanced state management (Provider, Riverpod, BLoC)
+- 🌐 RESTful and GraphQL API integration
+- 🧪 Comprehensive unit, widget, and integration testing
+- 🔒 Security and performance optimization
+- AI & Machine Learning (Python, TensorFlow)
+- 🤖 Deep learning and neural network development
+- 📊 Advanced machine learning model architectures
+- 🧠 Custom neural network design
+- 🔍 Advanced data preprocessing and augmentation
+- 📈 Model performance optimization
+- 🚀 Deployment strategies (TensorFlow Lite, ONNX)
+- Web Development:
+- 🌐 Backend development with Django and PHP
+- 🔧 RESTful API design
+- 🛡️ Authentication and security implementation
+- 📦 Database management (SqLite, MySQL)
+- 💻 Stack & Programming Languages
+- 📱 Dart (Advanced)
+- 🐍 Python (3.9+, Advanced)
+- 🦣 PHP (8.2+, Intermediate)
+- 🦀 Rust (Basic)
+- 🌐 Cross-platform development
+- 🤖 Machine learning solutions
+- 🔧 Backend infrastructure
+- 🚀 Performance optimization
+- 📐 Clean code and architecture
 - 📬 Contact:
 - Email: qwaaantex@gmail.com
 - LinkedIn: Soon..
