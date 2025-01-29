@@ -3,7 +3,7 @@
 ### 🔧 Technologies & Skills
 
 #### Mobile Development (Flutter/Dart):
-![flutter](https://github.com/user-attachments/assets/ee8a8ab9-6f27-4155-a5c2-9403d2ebc9dc)
+![imgbin_dart-google-developers-flutter-android-png](https://github.com/user-attachments/assets/bc7e8f6e-d70b-48dc-8046-3978e2f86fd8)
 - 📱 Cross-platform mobile app development
 - 🎨 Responsive and adaptive UI/UX design
 - 🔌 Advanced state management (Provider, Riverpod, BLoC)
@@ -12,7 +12,7 @@
 - 🔒 Security and performance optimization
 
 #### AI & Machine Learning (Python, TensorFlow):
-![python](https://github.com/user-attachments/assets/275262ee-a6da-4673-af64-c9cda1698c42)
+![imgbin_python-computer-icons-tutorial-computer-programming-png](https://github.com/user-attachments/assets/a66f4161-d33b-40ed-ba68-f907bf055e40)
 - 🤖 Deep learning and neural network development
 - 📊 Advanced machine learning model architectures
 - 🧠 Custom neural network design
