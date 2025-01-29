@@ -1,7 +1,7 @@
 ## Hi Guys!👋
 - 🔧 Technologies & Skills
 - Mobile Development (Flutter/Dart):
-![flutter](https://github.com/user-attachments/assets/1bc42096-8db7-4ba5-bbc4-a277b40eda97)
+![flutter](https://github.com/user-attachments/assets/86f878ea-a25b-4c29-ad69-82258e781005)
 - 📱 Cross-platform mobile app development
 - 🎨 Responsive and adaptive UI/UX design
 - 🔌 Advanced state management (Provider, Riverpod, BLoC)
