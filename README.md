@@ -12,7 +12,7 @@
 - 🔒 Security and performance optimization
 
 #### AI & Machine Learning (Python, TensorFlow):
-![python](https://github.com/user-attachments/assets/44eb20cc-db93-4c56-8264-90277b0407d3)
+![python](https://github.com/user-attachments/assets/9bbc0551-a961-4ba9-b7bf-95691ff8e448)
 - 🤖 Deep learning and neural network development
 - 📊 Advanced machine learning model architectures
 - 🧠 Custom neural network design
@@ -21,7 +21,7 @@
 - 🚀 Deployment strategies (TensorFlow Lite, ONNX)
 
 #### Web Development:
-![php](https://github.com/user-attachments/assets/b87198fd-f690-439d-8308-455c52593387)
+![php](https://github.com/user-attachments/assets/9ee6e7ac-0199-483d-afeb-43b07cd02542)
 - 🌐 Backend development with Django and PHP
 - 🔧 RESTful API design
 - 🛡️ Authentication and security implementation
