@@ -82,10 +82,10 @@ class DeveloperSkills {
 
 ## 📱 Showcase Projects
 
-- **HealthTrack Pro** - Fitness tracking app with ML-powered exercise recognition
-- **SecureChat** - End-to-end encrypted messaging platform with ephemeral messaging
-- **FinFlow** - Personal finance management with custom charts and predictive analytics
-- **GroceryExpress** - E-commerce platform with real-time inventory and delivery tracking
+- **HeighRecognitizion** - A simple console-app with Dart, which will help you learn about your future growth
+- **SSP** - A game that everyone knows, it will help you develop your brain without the Internet!
+- **WeathFul** - Coming soon..
+- **QList** - Coming soon..
 
 ## 📫 Let's Connect
 
