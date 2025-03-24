@@ -87,7 +87,7 @@ stdout.writeln(expertise); // Results ↑
 - **HeighRecognitizion** - A simple console-app with Dart, which will help you learn about your future growth
 - **SSP** - A game that everyone knows, it will help you develop your brain without the Internet!
 - **WeathFul** - Coming soon..
-- **QList** - Coming soon..
+- **QList** - This is a simple note-taking app that will really help you remember to do what you wanted to do!
 
 ## 📫 Let's Connect
 
