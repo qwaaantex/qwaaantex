@@ -66,6 +66,8 @@ class DeveloperSkills {
     "Rust":               0.30,  // ██████▋░░░░░░░░░░░░░░░░  30%
   };
 }
+stdout.writeln(expertise); // Results ↑
+
 ```
 
 ## 🌟 Mobile Development Expertise
